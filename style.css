@@ -1,0 +1,56 @@
+body {
+    background-color: white;
+    padding: 2%;
+    text-align: center;
+}
+
+h1 {
+    border-bottom: 5px solid 		#FFF700;
+    font-family: 'Freckle Face', cursive;;
+    font-size: 52px;
+    margin: 0 0 20px 0;
+    padding-bottom: 5px;
+    text-align: center;
+    color: inherit;
+
+}
+
+h2 {
+    font-family: 'Freckle Face', cursive;
+    text-align: center;
+    font-size: 40px;
+}
+
+p {
+  font-family: 'Crete Round', serif;
+
+}
+
+p.instructions {
+    font-weight: bold;
+}
+
+div {
+    background-color: #ffd3f7;
+    border: 1px solid white;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    float: left;
+    padding: 10px;
+    font-family: 'Crete Round', serif;
+    font-size: 20px;
+}
+
+div.data {
+    margin-right: 2%;
+    width: 25%
+}
+
+div.story {
+    width: 73%;
+    font-family: 'Crete Round', serif;
+}
+
+img {
+  text-align: center;
+}
